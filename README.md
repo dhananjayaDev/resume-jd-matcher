@@ -1,5 +1,7 @@
 # Resume & JD Matcher Dashboard
 
+![Banner](https://github.com/dhananjayaDev/resume-jd-matcher/blob/main/jd%20matcherr%20banner.png)
+
 A Streamlit-based application that matches resumes to job descriptions using sentence embeddings and regression, with built-in explainability via SHAP and LIME. Designed for recruiters, job seekers, and ML enthusiasts who want transparent, interpretable matching.
 
 ---
