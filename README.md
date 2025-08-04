@@ -28,7 +28,7 @@ A Streamlit-based application that matches resumes to job descriptions using sen
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/resume-jd-matcher.git](https://github.com/dhananjayaDev/resume-jd-matcher.git
+git clone https://github.com/dhananjayaDev/resume-jd-matcher.git
 cd resume-jd-matcher
 pip install -r requirements.txt
 ```
