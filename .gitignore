@@ -1,1 +1,93 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual environments
 venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# Streamlit cache
+.streamlit/
+
+# Model files and data
+*.h5
+*.pt
+*.pth
+*.joblib
+*.pkl
+*.sav
+*.npy
+*.npz
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.log
+
+# SHAP/LIME artifacts
+shap_output/
+lime_output/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Docker
+*.dockerfile
+docker-compose.yml
+*.env
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Environment config
+.env
+.env.*
+
+# Coverage and testing
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.cache/
+pytest_cache/
+
+# MyPy, Pylint, etc.
+.mypy_cache/
+.pylint.d/
+.pyre/
+.pytype/
+
+# Node (if frontend is added)
+node_modules/
+package-lock.json
+yarn.lock
+
+# README artifacts
+README.md~
