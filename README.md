@@ -112,7 +112,7 @@ resume-jd-matcher/
 
 ## License
 
-MIT License. See-ov-f [LICENSE](https://github.com/dhananjayaDev/resume-jd-matcher?tab=MIT-1ile) for details.
+MIT License. [LICENSE](https://github.com/dhananjayaDev/resume-jd-matcher?tab=MIT-1ile) for details.
 
 ---
 
